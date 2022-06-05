@@ -1,1 +1,0 @@
-# rn-typescript-app
