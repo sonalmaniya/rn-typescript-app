@@ -1,0 +1,3 @@
+# @app/components
+
+The `components` folder contains app components, such as buttons, inputs...
